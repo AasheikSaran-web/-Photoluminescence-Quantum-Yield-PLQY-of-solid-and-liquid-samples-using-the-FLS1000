@@ -49,37 +49,13 @@ Photoluminescence is the emission of light from a material after absorbing photo
 - Background noise reduction
 - Instrument calibration
 
----
 
-## Results
-
-> See the following images for spectrometer setup, raw PL data, processed graphs, and comparative efficiency charts.
-
-### Images:
-
-1. Experimental Setup  
-   ![Experimental Setup](images/experimental_setup.png)
-
-2. Sample Inside Integrating Sphere  
-   ![Integrating Sphere](images/integrating_sphere_sample.png)
-
-3. Emission Spectrum - MEH-PPV  
-   ![PL Emission Spectrum](images/MEH_PPV_emission_spectrum.png)
-
-4. PLQY Comparison (Solid vs Liquid)  
-   ![PLQY Comparison](images/plqy_comparison_chart.png)
-
----
 
 ## Conclusion
 
 The FLS1000 spectrometer, equipped with an integrating sphere, enables accurate measurement of PLQY. MEH-PPV displayed high PLQY in solution compared to solid-state, emphasizing the importance of material form in optoelectronic efficiency.
 
-## References
 
-[List of references as in the report]
-
----
 
 ## Acknowledgements
 
